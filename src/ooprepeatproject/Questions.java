@@ -12,7 +12,7 @@ import java.io.FileReader;
 import java.io.IOException;
 /**
  *
- * @author x16114388
+ * @author James O'Carroll
  */
 public class Questions extends javax.swing.JFrame {
 private ArrayList<Integer> list;
